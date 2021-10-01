@@ -1,0 +1,11 @@
+.box-width {
+  margin-left: 170px;
+  justify-content: center;
+  width: 1000px;
+}
+.box {
+  border-radius: 10px;
+  -webkit-box-shadow: -2px 1px 20px 1px rgba(110, 110, 110, 0.48);
+  box-shadow: -2px 1px 10px 0px rgba(0, 0, 0, 0.48);
+  background: #ffffff;
+}
